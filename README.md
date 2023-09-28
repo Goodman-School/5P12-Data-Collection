@@ -10,3 +10,9 @@ You can find relevent materials in this repository.
 
 Old version recordings:  
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ic3UG31ZNjs/0.jpg)](https://www.youtube.com/watch?v=Ic3UG31ZNjs&list=PLvRDiuT-xWexeXEoCQuCUyLt8uP4CXul8&index=1)
+
+Old code reference
+
+Indeed[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c1nh-lhcoZxjwQn8NtLX1s9CtTRZ93ut?usp=sharing)
+
+Wiki[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dNla7NxfC8LnYoxfE6BAknq60rjwMS63?usp=sharing)
