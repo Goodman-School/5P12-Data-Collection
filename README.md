@@ -4,7 +4,7 @@ This is material for Goodman School Workshop of "Data Collecting"
 
 You can find relevent materials in this repository.
 
-[PPT Slides Link](https://github.com/Goodman-School/Scraping_with_automa/raw/main/Data%20Collection%20Workshop%202023.pptx)
+[PPT Slides Link](https://github.com/Goodman-School/Scraping_with_automa/raw/main/Data%20Collection%20Workshop%202024.pptx)
 
 [Example Automa Graphs](https://github.com/Goodman-School/Scraping_with_automa/tree/main/examples)
 
